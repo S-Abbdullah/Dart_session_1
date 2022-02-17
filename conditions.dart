@@ -1,7 +1,12 @@
 // If
 //If else
 //if else if
-
+//Precedence:-
+//with the help of precendence we know which operator will be perform first
+// https://slideplayer.com/13600954/83/images/slide_1.jpg
+//.contain is used to check whether a specefic word/symbol is available in a string etc..
+//.lenght is used to know how many character are in a string.
+//&& (AND) only work when every given condition is true then it will execute
 void main(List<String> args) {
   int num1 =3;
   int num2 =4;
